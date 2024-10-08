@@ -1,6 +1,12 @@
 # responsive-navbar
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple responsive nav menu
+
+![alt responsive](./public/img1)
+
+![alt responsive](./public/img2)
+
+![alt responsive](./public/img3)
 
 ## Recommended IDE Setup
 
