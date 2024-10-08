@@ -2,11 +2,11 @@
 
 This is a simple responsive nav menu
 
-![alt responsive](./public/img1)
+![alt responsive](./public/img1.png)
 
-![alt responsive](./public/img2)
+![alt responsive](./public/img2.png)
 
-![alt responsive](./public/img3)
+![alt responsive](./public/img3.png)
 
 ## Recommended IDE Setup
 
