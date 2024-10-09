@@ -16,13 +16,6 @@ const openCloseMenu = () => {
           <span style="color: #328565" v-else>menu</span></Transition
         ></i
       >
-      <!-- <i
-        v-if="isMenuOpen"
-        @click="openMenu()"
-        class="material-icons"
-        style="font-size: 36px; color: #328565; cursor: pointer"
-        >close</i
-      > -->
     </div>
     <nav :class="[isMenuOpen ? 'nav-menu-open' : 'nav-menu-close']">
       <RouterLink @click="openCloseMenu()" to="/">Home</RouterLink>
